@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Outfit";
+  src: url("/fonts/outfit/static/Outfit-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Outfit";
+  src: url("/fonts/outfit/static/Outfit-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Outfit";
+  src: url("/fonts/outfit/static/Outfit-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Outfit";
+  src: url("/fonts/outfit/static/Outfit-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+:root {
+  --font-outfit: "Outfit", sans-serif;
+}
+
+@layer utilities {
+  .font-outfit {
+    font-family: var(--font-outfit);
+  }
+}
+
+@layer base {
+  body {
+    font-family: var(--font-outfit);
+  }
+}
+
