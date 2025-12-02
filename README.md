@@ -7,7 +7,7 @@
 <h2 align="left">🌐 Live Demo</h2>
 <p>
   Check out the live version of <strong>Recipe Page</strong> on Vercel:  
-  <a href="https://recipe-page-sigma-cyan.vercel.app" target="_blank">https://your-vercel-project-link.vercel.app</a>
+  <a href="https://recipe-page-sigma-cyan.vercel.app" target="_blank">https://recipe-page-sigma-cyan.vercel.app</a>
 </p>
 <h2 align="left">🚀 Technologies Used:</h2>
 <p align="left">
