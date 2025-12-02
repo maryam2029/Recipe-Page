@@ -1,18 +1,51 @@
-# React + Vite
+<h1 align="center">🍳 Recipe Page</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  A React Vite Project that displays a list of recipes dynamically using <strong>List Rendering</strong>.
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="React GIF" width="300"/>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2 align="left">🚀 Technologies Used:</h2>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://vitejs.dev/" target="_blank"> <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> </a>
+</p>
 
-## React Compiler
+<h2 align="left">🎯 Features:</h2>
+<ul>
+    <li>React Vite Project for fast and modern development</li>
+    <li>Dynamic <strong>List Rendering</strong> to display recipes</li>
+    <li>Responsive layout with clean UI</li>
+    <li>Reusable React components for each recipe item</li>
+    <li>User-friendly interface for browsing recipes</li>
+</ul>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<h2 align="left">💻 Installation:</h2>
+<ol>
+    <li>Clone the repository:
+        <pre><code>git clone git@github.com:maryam2029/Recipe-Page.git</code></pre>
+    </li>
+    <li>Install dependencies:
+        <pre><code>npm install</code></pre>
+    </li>
+    <li>Start the project:
+        <pre><code>npm run dev</code></pre>
+    </li>
+</ol>
 
-## Expanding the ESLint configuration
+<h2 align="left">📌 Usage:</h2>
+<ul>
+    <li>Browse through recipes</li>
+    <li>View recipe details and images</li>
+</ul>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Recipe Page
-A simple React project showing recipes.
+
+</p>
+
