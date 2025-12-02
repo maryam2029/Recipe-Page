@@ -3,10 +3,12 @@
 <p align="center">
   A React Vite Project that displays a list of recipes dynamically using <strong>List Rendering</strong>.
 </p>
-  <a href="https://recipe-page-sigma-cyan.vercel.app/" target="_blank">
 
-
-
+<h2 align="left">🌐 Live Demo</h2>
+<p>
+  Check out the live version of <strong>Recipe Page</strong> on Vercel:  
+  <a href="https://recipe-page-sigma-cyan.vercel.app" target="_blank">https://your-vercel-project-link.vercel.app</a>
+</p>
 <h2 align="left">🚀 Technologies Used:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
